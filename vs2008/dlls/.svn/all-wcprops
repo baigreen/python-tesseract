@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/262/trunk/vs2008/dlls
+END
+tbb.dll
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/262/trunk/vs2008/dlls/tbb.dll
+END
+opencv_core240.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/262/trunk/vs2008/dlls/opencv_core240.dll
+END
+libtesseract302.dll
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/262/trunk/vs2008/dlls/libtesseract302.dll
+END
+liblept168.dll
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/262/trunk/vs2008/dlls/liblept168.dll
+END
+msvcp90.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/262/trunk/vs2008/dlls/msvcp90.dll
+END
+msvcr90.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/262/trunk/vs2008/dlls/msvcr90.dll
+END

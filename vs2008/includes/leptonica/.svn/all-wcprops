@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica
+END
+readbarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/readbarcode.h
+END
+ccbord.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/ccbord.h
+END
+alltypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/alltypes.h
+END
+regutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/regutils.h
+END
+pix.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/pix.h
+END
+arrayaccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/arrayaccess.h
+END
+allheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/allheaders.h
+END
+bmf.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/bmf.h
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/stack.h
+END
+ptra.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/ptra.h
+END
+sudoku.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/sudoku.h
+END
+imageio.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/imageio.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/list.h
+END
+bbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/bbuffer.h
+END
+heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/heap.h
+END
+bmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/bmp.h
+END
+array.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/array.h
+END
+environ.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/environ.h
+END
+jbclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/jbclass.h
+END
+dewarp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/dewarp.h
+END
+leptwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/leptwin.h
+END
+freetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/freetype.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/queue.h
+END
+gplot.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/gplot.h
+END
+morph.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/morph.h
+END
+watershed.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/watershed.h
+END
+endianness.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/262/trunk/vs2008/includes/leptonica/endianness.h
+END

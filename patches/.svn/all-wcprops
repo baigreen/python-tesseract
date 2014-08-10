@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/305/trunk/patches
+END
+SetCVImage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/305/trunk/patches/SetCVImage.patch
+END
+tesseract_sm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/305/trunk/patches/tesseract_sm.patch
+END

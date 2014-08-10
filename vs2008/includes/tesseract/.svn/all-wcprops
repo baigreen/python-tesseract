@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/284/trunk/vs2008/includes/tesseract
+END
+unichar.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/unichar.h
+END
+memry.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/memry.h
+END
+tesscallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/tesscallback.h
+END
+ndminx.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/ndminx.h
+END
+apitypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/apitypes.h
+END
+genericvector.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/genericvector.h
+END
+assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/assert.h
+END
+helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/helpers.h
+END
+publictypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/publictypes.h
+END
+baseapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/baseapi.h
+END
+unicharset.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/unicharset.h
+END
+ltrresultiterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/ltrresultiterator.h
+END
+serialis.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/serialis.h
+END
+host.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/host.h
+END
+strngs.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/strngs.h
+END
+thresholder.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/thresholder.h
+END
+params.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/params.h
+END
+errcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/errcode.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/platform.h
+END
+tprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/284/trunk/vs2008/includes/tesseract/tprintf.h
+END
+svutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/svutil.h
+END
+pageiterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/pageiterator.h
+END
+unicharmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/unicharmap.h
+END
+resultiterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/resultiterator.h
+END
+fileerr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/262/trunk/vs2008/includes/tesseract/fileerr.h
+END
